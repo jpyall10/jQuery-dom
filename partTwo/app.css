@@ -1,0 +1,24 @@
+#container {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+#moviesTable {
+    width: inherit;
+    padding: 5%;
+}
+thead {
+    font-size: large;
+    background-color: lightgrey;
+}
+h1 {
+    display: inline-block;
+    width: inherit;
+    text-align: center;
+}
+#movieForm {
+    display:inline-block;
+    width: inherit;
+}
